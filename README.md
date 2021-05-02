@@ -9,8 +9,6 @@ To perform a search the user will have to enter information under the Filter Sea
 
 ![ufo](https://user-images.githubusercontent.com/49353083/116823576-47319880-ab53-11eb-9f8f-f611a2b92676.png)
 
-
 ## Summary
 
-The summary addresses one drawback of this webpage
-The summary addresses two additional recommendations for further development
+One drawback to this webpage is that there is no quick way of clearing the filters. The user currently has to go to the top left of the page and click on the text to reset the filter. A suggestion that can help improve the page is to create a "clear filter" button, to allow users to quickly clear the filter. Another suggestion for further development to make the webpage better is to create multiple inputs in one given label. For example, if a user wanted to look at UFO sightings in the state of "fl" and "ca", then they would be able to. Currently it is only able to take one criteria for each label.
